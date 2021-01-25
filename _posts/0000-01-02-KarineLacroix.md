@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to your second slide!"
 ---
-Your text
+Replace with Bernie meme
 Use the left arrow to go back!
